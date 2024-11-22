@@ -11,6 +11,7 @@ Create an app that can load a Spotify top dataset and implement some filters for
   * aboutus.h
   * mainwindow.h
   * tablebighw.h
+  * customproxymodel.h
 - ### Source Files:
   * main.cpp
   * mainwindow.cpp
