@@ -17,6 +17,7 @@ Create an app that can load a Spotify top dataset and implement some filters for
   * tablebighw.cpp
   * aboutus.cpp
   * addrowdialog.cpp
+  * customproxymodel.cpp
 
 ## Features:
 - Load File function – read information from given .csv file and then this data is represented using QAbstractTableModel
